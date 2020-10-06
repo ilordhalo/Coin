@@ -15,6 +15,7 @@
 		0F1DD89D206951BE00D57270 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F1DD89B206951BE00D57270 /* LaunchScreen.storyboard */; };
 		0F1DD8A8206951BF00D57270 /* CoinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1DD8A7206951BF00D57270 /* CoinTests.swift */; };
 		0F1DD8B3206951BF00D57270 /* CoinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1DD8B2206951BF00D57270 /* CoinUITests.swift */; };
+		0F25F66D206B9F0900EEE321 /* audio in Resources */ = {isa = PBXBuildFile; fileRef = 0F25F66C206B9F0900EEE321 /* audio */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0F1DD8AE206951BF00D57270 /* CoinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F1DD8B2206951BF00D57270 /* CoinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinUITests.swift; sourceTree = "<group>"; };
 		0F1DD8B4206951BF00D57270 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F25F66C206B9F0900EEE321 /* audio */ = {isa = PBXFileReference; lastKnownFileType = folder; path = audio; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				0F1DD890206951BE00D57270 /* AppDelegate.swift */,
+				0F25F66C206B9F0900EEE321 /* audio */,
 				0F1DD892206951BE00D57270 /* art.scnassets */,
 				0F1DD894206951BE00D57270 /* GameViewController.swift */,
 				0F1DD896206951BE00D57270 /* Main.storyboard */,
@@ -237,6 +240,7 @@
 			files = (
 				0F1DD893206951BE00D57270 /* art.scnassets in Resources */,
 				0F1DD89D206951BE00D57270 /* LaunchScreen.storyboard in Resources */,
+				0F25F66D206B9F0900EEE321 /* audio in Resources */,
 				0F1DD89A206951BE00D57270 /* Assets.xcassets in Resources */,
 				0F1DD898206951BE00D57270 /* Main.storyboard in Resources */,
 			);
